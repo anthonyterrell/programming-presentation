@@ -1,5 +1,5 @@
 # Overview
-This repository is for a programming presentation for a 5th grade classroom. The purpose of this repository is to demonstrate how accepting a teammates pull request can fix a problem we are encountering. 
+This repository is for a programming presentation for a 5th grade classroom. The purpose of this repository is to demonstrate how accepting a teammates pull request can fix a problem we are encountering. :) 
 
 ## Code Example
 
